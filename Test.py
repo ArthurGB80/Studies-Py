@@ -1,0 +1,6 @@
+print("Olá, Vamos brincar de adivina?")
+print("...")
+print("Você tem que adivinhar um numero de 1 a 100? ... Ok????")
+print("...")
+print("Pressione ""Enter"" para começar")
+input()
